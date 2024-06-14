@@ -10,4 +10,4 @@ This component can be added to your scene from the GameObject menu. If an `Ampli
 
 ### Gallery
 
-![image-20240608-213145.png](attachments/29163521/29982969.png?width=502)
+![image-20240608-213145.png](docutils/attachments/29163521/29982969.png?width=502)

@@ -36,35 +36,8 @@ _These items are considered optional because they are not required for Amplifi t
 *   Free Sample AudioClip's.
     
     *   4x Sample Ambience
-        
-        *   [![](attachments/thumbnails/30179344/30179534)](attachments/30179344/30179534.mp3)
-            
-        *   [![](attachments/thumbnails/30179344/30179540)](attachments/30179344/30179540.mp3)
-            
-        *   [![](attachments/thumbnails/30179344/29983015)](attachments/30179344/29983015.mp3)
-            
-        *   [![](attachments/thumbnails/30179344/29852094)](attachments/30179344/29852094.mp3)
-            
-    *   4x Sample Music
-        
-        *   [![](attachments/thumbnails/30179344/29852082)](attachments/30179344/29852082.mp3)
-            
-        *   [![](attachments/thumbnails/30179344/30146890)](attachments/30179344/30146890.mp3)
-            
-        *   [![](attachments/thumbnails/30179344/29852088)](attachments/30179344/29852088.mp3)
-            
-        *   [![](attachments/thumbnails/30179344/30179528)](attachments/30179344/30179528.mp3)
-            
+    *   4x Sample Music            
     *   4x Sample SFX
-        
-        *   [![](attachments/thumbnails/30179344/30146878)](attachments/30179344/30146878.mp3)
-            
-        *   [![](attachments/thumbnails/30179344/29983007)](attachments/30179344/29983007.mp3)
-            
-        *   [![](attachments/thumbnails/30179344/30146884)](attachments/30179344/30146884.mp3)
-            
-        *   [![](attachments/thumbnails/30179344/29852076)](attachments/30179344/29852076.mp3)
-            
 
 _This item is considered optional because it is not required for Amplifi to run. Developers can simply create their own AudioMixer/Snapshot/Groups from scratch if preferred._
 

@@ -17,7 +17,7 @@ For examples on how to create AmplifiContext objects with the Amplifi API, check
 
 1.  To create an “Amplifi Context” object, you will need to navigate to the directory you would prefer to store your Amplifi Context objects in.
     
-2.  Once inside the desired directory, right click, select ‘Create’ > ‘Amplifi’ > ‘Amplifi Context’ This will create a default “Amplifi Context” object. ![image-20240608-233643.png](attachments/29852062/30179583.png)  ![image-20240608-234151.png](attachments/29852062/30146937.png)
+2.  Once inside the desired directory, right click, select ‘Create’ > ‘Amplifi’ > ‘Amplifi Context’ This will create a default “Amplifi Context” object. ![image-20240608-233643.png](docutils/attachments/29852062/30179583.png)  ![image-20240608-234151.png](docutils/attachments/29852062/30146937.png)
     
 3.  At this time, the Amplifi Context object is ready to be configured.
     

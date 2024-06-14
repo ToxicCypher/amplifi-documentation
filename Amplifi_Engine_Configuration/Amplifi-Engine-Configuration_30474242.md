@@ -19,9 +19,9 @@ For examples on how to create AmplifiEngine via the Amplifi API, visit [Amplifi.
 
 _This section assumes that the current scene does not yet contain an Amplifi Engine game object._
 
-1.  To add the “Amplifi Engine” to your scene, open the GameObject menu, however you might prefer, and select ‘Amplifi’ > ‘Amplifi Engine’. ![image-20240609-000607.png](attachments/30474242/30146980.png)
+1.  To add the “Amplifi Engine” to your scene, open the GameObject menu, however you might prefer, and select ‘Amplifi’ > ‘Amplifi Engine’. ![image-20240609-000607.png](docutils/attachments/30474242/30146980.png)
     
-2.  At this time, the Amplifi Engine is ready to be configured. ![image-20240609-000707.png](attachments/30474242/29852223.png)
+2.  At this time, the Amplifi Engine is ready to be configured. ![image-20240609-000707.png](docutils/attachments/30474242/29852223.png)
     
 
 ### Configuring the Amplifi Engine
