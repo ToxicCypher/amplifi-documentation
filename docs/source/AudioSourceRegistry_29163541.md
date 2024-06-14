@@ -1,0 +1,3 @@
+### Summary
+
+This code defines an `AudioSourceRegistry` class within the `Amplifi` namespace in Unity, intended to monitor all active `AudioSources` in a scene and facilitate volume adjustments for them collectively. The registry utilizes a dictionary with unique GUID keys to couple `AudioSources` with their respective coroutines. It includes methods to record, remove, and clear `AudioSources` from the registry, as well as retrieve them. Additionally, it provides functionality to convert the registry into a list of strings, optionally including GUID keys and `AudioSource` values. The registry assists in managing `AudioSources` associated with SFX, ambience, and music via their corresponding GUIDs.

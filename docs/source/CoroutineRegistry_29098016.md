@@ -1,0 +1,3 @@
+### Summary
+
+This code defines a `CoroutineRegistry` class within the `Amplifi` namespace in Unity, aiming to monitor all active coroutines in a scene. It maintains a dictionary where coroutines are registered with a unique GUID key. The class provides methods to record, remove, and clear coroutines from the registry, as well as retrieve them. Additionally, it offers functionality to convert the registry into a list of strings, optionally including GUID keys and coroutine values. The registry facilitates managing coroutines associated with SFX, ambience, and music via their corresponding GUIDs.

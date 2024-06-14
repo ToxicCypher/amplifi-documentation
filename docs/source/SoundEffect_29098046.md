@@ -1,0 +1,3 @@
+### Summary
+
+The `SoundEffect` class in the Amplifi namespace manages the instancing of sound effects in a Unity project. It works in conjunction with other classes such as `AmplifiConfig`, `AmplifiEngine`, `SoundEffectRegistry`, `AudioSourceRegistry`, and `CoroutineRegistry` to generate and control sound effects. The class ensures that sound effects are eligible for instancing based on duplicate limits, then creates and configures audio sources with the appropriate settings from `AmplifiContext`. It handles both one-time and looped sound effects, manages their lifecycle through coroutines, and cleans up resources after the sounds have finished playing.

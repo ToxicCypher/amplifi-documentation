@@ -1,0 +1,3 @@
+### Summary
+
+The `SoundEffectRegistry` class in the Amplifi namespace is designed to monitor and manage currently instanced sound effects in a Unity project. It maintains a list of sound effect clips, allowing the recording, removal, and clearing of entries. The class also includes a method to check if a sound effect is eligible for instancing based on a specified duplicate limit and context, which can override this limit if necessary. This helps manage audio instances, ensuring that duplicate sound effects do not exceed the defined limit.

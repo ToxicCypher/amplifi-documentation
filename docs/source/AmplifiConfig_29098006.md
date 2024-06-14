@@ -1,0 +1,3 @@
+### Summary
+
+The `AmplifiConfig` class, part of the Amplifi namespace, is used in Unity to configure audio settings. It includes properties for an audio mixer snapshot, a base audio track, the context for the base track, initial audio escalation, and a limit on duplicate audio instances. The class is initialized with these parameters to manage and configure audio behaviors within the Amplifi system. ​​

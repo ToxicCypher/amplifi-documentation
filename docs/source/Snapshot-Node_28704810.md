@@ -1,0 +1,18 @@
+Summary
+=======
+
+In this section, you will learn about all of the configuration that is available for Snapshot Amplifi Nodes and in general, how each Snapshot Amplifi Node subtype behaves.
+
+Snapshot Node Subtype Behavior
+==============================
+
+Below is a table detailing all of the available Snapshot node subtypes and a detailed description regarding the general behavior of the Snapshot node subtypes.
+
+<table data-table-width="760" data-layout="default" data-local-id="01534237-8e2b-4033-aa0e-d4e382a8d681" class="confluenceTable"><colgroup><col style="width: 160.0px;"><col style="width: 599.0px;"></colgroup><tbody><tr><th class="confluenceTh"><p><strong>Node Subtype</strong></p></th><th class="confluenceTh"><p><strong>Description</strong></p></th></tr><tr><td class="confluenceTd"><p>N/A</p></td><td class="confluenceTd"><p>N/A</p></td></tr></tbody></table>
+
+Snapshot Node Configuration
+===========================
+
+Below is a table detailing all of the available configuration for the Snapshot type Amplifi Node. If any Snapshot Amplifi Node subtypes are available, the availability of a given parameter for a particular subtype will be noted.
+
+<table data-table-width="1373" data-layout="default" data-local-id="932f4727-a3f6-428f-8ae5-ce617ba4b772" class="confluenceTable"><colgroup><col style="width: 236.0px;"><col style="width: 180.0px;"><col style="width: 159.0px;"><col style="width: 117.0px;"><col style="width: 676.0px;"></colgroup><tbody><tr><th class="confluenceTh"><p><strong>Parameter</strong></p></th><th class="confluenceTh"><p><strong>Data Type</strong></p></th><th class="confluenceTh"><p><strong>Default Value</strong></p></th><th class="confluenceTh"><p><strong>Subtype Availability</strong></p></th><th class="confluenceTh"><p><strong>Description</strong></p></th></tr><tr><td class="confluenceTd"><p>Target Audio Mixer</p></td><td class="confluenceTd"><p>AudioMixer</p></td><td class="confluenceTd"><p>null</p></td><td class="confluenceTd"><p>N/A</p></td><td class="confluenceTd"><p>The AudioMixer that will be targeted when the AudioMixerSnapshot is blended.</p></td></tr><tr><td class="confluenceTd"><p>Target Mixer Snapshot</p></td><td class="confluenceTd"><p>AudioMixerSnapshot</p></td><td class="confluenceTd"><p>null</p></td><td class="confluenceTd"><p>N/A</p></td><td class="confluenceTd"><p>The AudioMixerSnapshot to blend to when the bounding volume is entered.</p></td></tr><tr><td class="confluenceTd"><p>Reversion Mixer Snapshot</p></td><td class="confluenceTd"><p>AudioMixerSnapshot</p></td><td class="confluenceTd"><p>null</p></td><td class="confluenceTd"><p>N/A</p></td><td class="confluenceTd"><p>The AudioMixerSnapshot to revert to when the bounding volume is exited.</p></td></tr><tr><td class="confluenceTd"><p>Blend Duration</p></td><td class="confluenceTd"><p>float</p></td><td class="confluenceTd"><p>1.0f</p></td><td class="confluenceTd"><p>N/A</p></td><td class="confluenceTd"><p>The length of time in seconds that it will take to blend between the previous and next AudioMixerSnapshot.</p></td></tr><tr><td class="confluenceTd"><p>Allowed Tags</p></td><td class="confluenceTd"><p>List&lt;string&gt;</p></td><td class="confluenceTd"><p>List&lt;string&gt; { }</p></td><td class="confluenceTd"><p>N/A</p></td><td class="confluenceTd"><p>A list of tags that are allowed to trigger this node, given that the game object that enters the bounding volume is tagged with one of the tags supplied to this list. If no tags are specified, any game object can trigger the target node.</p></td></tr></tbody></table>
