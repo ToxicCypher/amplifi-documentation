@@ -8,6 +8,9 @@ What is an Amplifi Node?
 
 An Amplifi Node is a game object which is tightly coupled with the Amplifi Engine. Each Amplifi Node acts as a front-end for Amplifi Audio Management with the use of Amplifi Node configuration and collision triggers. Amplifi Node’s are designed to work out-of-the-box with little to no configuration but supplemental configurations may be provided with ease, utilizing [Amplifi Context](Amplifi-Context-Configuration_29852062.md) objects, along with [Amplifi Engine Configuration](Amplifi-Engine-Configuration_30474242.md) [Amplifi Engine Configuration](Amplifi-Engine-Configuration_30474242.md)and Amplifi Node configuration detailed in this documents sub-pages.
 
+Multiple Amplifi Node components can be used on a single game object, allowing for a single game object to perform a mixture of tasks with Amplifi.
+
+
 Creating an Amplifi Node
 ========================
 
