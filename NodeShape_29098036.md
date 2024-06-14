@@ -1,7 +1,0 @@
-### Summary
-
-The `NodeShape` enum within the `Amplifi` namespace defines different geometric shapes that can be associated with nodes within the Amplifi system. Here's an explanation of each enum value:
-
-### Options
-
-<table data-table-width="760" data-layout="default" data-local-id="7dea2fae-7afd-462d-bf9b-7ee1577014ef" class="confluenceTable"><colgroup><col style="width: 221.0px;"><col style="width: 538.0px;"></colgroup><tbody><tr><th class="confluenceTh"><p><strong>Option</strong></p></th><th class="confluenceTh"><p><strong>Definition</strong></p></th></tr><tr><td class="confluenceTd"><p>Box</p></td><td class="confluenceTd"><p>Use a box collider as the specified nodes collision/trigger shape.</p></td></tr><tr><td class="confluenceTd"><p>Sphere</p></td><td class="confluenceTd"><p>Use a sphere collider as the specified nodes collision/trigger shape.</p></td></tr><tr><td class="confluenceTd"><p>Capsule</p></td><td class="confluenceTd"><p>Use a capsule collider as the specified nodes collision/trigger shape.</p></td></tr><tr><td class="confluenceTd"><p>Mesh</p></td><td class="confluenceTd"><p>Use a mesh collider as the specified nodes collision/trigger shape. The mesh shape will automatically be set to the shared mesh provided in the mesh filter component.</p></td></tr></tbody></table>
