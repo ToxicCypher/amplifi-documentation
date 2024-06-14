@@ -5,7 +5,7 @@ Dynamic node behavior blocks are used to convey clearly and in real-time how the
 
 #### Amplifi Node - Dynamic Block Examples
 
-![](docutils/attachments/thumbnails/29851775/29852127)
-![](docutils/attachments/thumbnails/29851775/29983026)
-![](docutils/attachments/thumbnails/29851775/30146920)
-![](docutils/attachments/thumbnails/29851775/30179550)
+![](../docutils/attachments/thumbnails/29851775/29852127)
+![](../docutils/attachments/thumbnails/29851775/29983026)
+![](../docutils/attachments/thumbnails/29851775/30146920)
+![](../docutils/attachments/thumbnails/29851775/30179550)

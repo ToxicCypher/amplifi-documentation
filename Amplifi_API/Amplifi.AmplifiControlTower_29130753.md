@@ -5,11 +5,6 @@ Description
 
 The `AmplifiControlTower` class is a static utility designed to manage the lifecycle of audio sources in a Unity project. It includes functionality to lock and unlock audio source creation, preventing new audio sources from being instantiated when locked as well as decommissioning logic for all AudioSources and Coroutines currently existing under the influence of `Amplifi`.
 
-### Related Resources
-
-*   [AmplifiEngine](Amplifi.AmplifiEngine_29130763.md)
-    
-
 Usage
 =====
 

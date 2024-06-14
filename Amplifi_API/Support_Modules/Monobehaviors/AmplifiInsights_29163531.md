@@ -8,4 +8,4 @@ Attach the Amplifi Insights component to any game object in your active scene to
 
 ### Gallery
 
-![image-20240607-221418.png](docutils/attachments/29163531/29786143.png?width=385)
+![image-20240607-221418.png](../../../docutils/attachments/29163531/29786143.png?width=385)

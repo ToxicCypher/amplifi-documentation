@@ -6,7 +6,7 @@ In this section, you will be guided through setting up Amplifi Node objects via 
 What is an Amplifi Node?
 ========================
 
-An Amplifi Node is a game object which is tightly coupled with the Amplifi Engine. Each Amplifi Node acts as a front-end for Amplifi Audio Management with the use of Amplifi Node configuration and collision triggers. Amplifi Node’s are designed to work out-of-the-box with little to no configuration but supplemental configurations may be provided with ease, utilizing [Amplifi Context](Amplifi-Context-Configuration_29852062.md) objects, along with [Amplifi Engine Configuration](Amplifi-Engine-Configuration_30474242.md) [Amplifi Engine Configuration](Amplifi-Engine-Configuration_30474242.md)and Amplifi Node configuration detailed in this documents sub-pages.
+An Amplifi Node is a game object which is tightly coupled with the Amplifi Engine. Each Amplifi Node acts as a front-end for Amplifi Audio Management with the use of Amplifi Node configuration and collision triggers. Amplifi Node’s are designed to work out-of-the-box with little to no configuration but supplemental configurations may be provided with ease, utilizing [Amplifi Context](../Amplifi_Context_Configuration/Amplifi-Context-Configuration_29852062.md) objects, along with [Amplifi Engine Configuration](../Amplifi_Engine_Configuration/Amplifi-Engine-Configuration_30474242.md) and Amplifi Node configuration detailed in this documents sub-pages.
 
 Multiple Amplifi Node components can be used on a single game object, allowing for a single game object to perform a mixture of tasks with Amplifi.
 
@@ -14,7 +14,7 @@ Multiple Amplifi Node components can be used on a single game object, allowing f
 Creating an Amplifi Node
 ========================
 
-Amplifi Nodes are purely designed for front-end | no-code development. For visual guidance on standing up Amplifi Node’s visit the [Video Tutorials](https://toxiccyphergames.atlassian.net/wiki/spaces/Amplifi/pages/29884437) page.
+Amplifi Nodes are purely designed for front-end | no-code development. For visual guidance on standing up Amplifi Node’s visit the [Video Tutorials](../Video_Tutorial/Video-Tutorials_29884437.md) page.
 
 ### Creating Stand-Alone Amplifi Node
 
@@ -40,57 +40,15 @@ Amplifi Nodes are purely designed for front-end | no-code development. For visua
 
 Now it is time to configure the Amplifi Node object that you have just created. Amplifi Node’s come in a variety of base configurations as well as subtype configurations, which will be explored in each of the Amplifi Node type documentation. See below for the list of Amplifi Node base types.
 
-| 
-**Type**
-
- | 
 
 **Documentation**
 
- |
-| --- | --- |
-| 
+[Ambience Node](../Amplifi_Node_Configuration/Ambience-Node_28770351.md)
 
-Ambience
+[Music Node](../Amplifi_Node_Configuration/Music-Node_28278804.md)
 
- | 
+[SFX Node](../Amplifi_Node_Configuration/SFX-Node_28639274.md)
 
-[Ambience Node](Ambience-Node_28770351.md)
+[Snapshot Node](../Amplifi_Node_Configuration/Snapshot-Node_28704810.md)
 
- |
-| 
-
-Music
-
- | 
-
-[Music Node](Music-Node_28278804.md)
-
- |
-| 
-
-SFX
-
- | 
-
-[SFX Node](SFX-Node_28639274.md)
-
- |
-| 
-
-Snapshot
-
- | 
-
-[Snapshot Node](Snapshot-Node_28704810.md)
-
- |
-| 
-
-Utility
-
- | 
-
-[Utility Node](Utility-Node_30867468.md)
-
- |
+[Utility Node](../Amplifi_Node_Configuration/Utility-Node_30867468.md)
